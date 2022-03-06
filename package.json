@@ -1,0 +1,23 @@
+{
+  "name": "theteapot",
+  "version": "1.0.0",
+  "description": "SM app in the works...who knows where this will go?",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mad-Mal/TheTeapot.git"
+  },
+  "author": "LondxnFxg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mad-Mal/TheTeapot/issues"
+  },
+  "homepage": "https://github.com/Mad-Mal/TheTeapot#readme"
+}
