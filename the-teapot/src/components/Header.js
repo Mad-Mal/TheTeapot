@@ -1,6 +1,9 @@
 //Imports
 import React from 'react'
 
+//Styling
+import '../styling/header.css'
+
 const Header = () => {
   return (
     <section className='outerContainer'>

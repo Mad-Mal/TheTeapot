@@ -1,4 +1,8 @@
+//Imports
 import React from 'react'
+
+//Styling
+import '../styling/panels.css'
 
 const Panels = () => {
   return (

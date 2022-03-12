@@ -1,6 +1,9 @@
 //Imports
 import React from 'react'
 
+//Styling
+import '../styling/navbar.css'
+
 const Navbar = () => {
   return (
     <div className='outerNav'>
