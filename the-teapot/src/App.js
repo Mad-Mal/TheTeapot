@@ -1,5 +1,6 @@
 //Component Imports
 import Header from '/components/Header.js'
+import Panels from '/components/Panels.js'
 import Navbar from '/components/Navbar.js'
 
 //Style imports
@@ -11,6 +12,7 @@ function App() {
     <div className="mainContainer">
       <div className="innerContainer">
         <Header />
+        <Panels />
         <Navbar />
       </div>
     </div>

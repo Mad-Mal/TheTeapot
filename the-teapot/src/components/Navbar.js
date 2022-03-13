@@ -9,19 +9,19 @@ const Navbar = () => {
     <div className='outerNav'>
         <div className='innerNav'>
             <div className='buttonContainer'>
-                <button /> //Search
+                <button>Sea</button> //Magnifying glass? would like something more tea related
             </div>
             <div className='buttonContainer'>
-                <button /> //Notifications
+                <button>Not</button> //Tea kettle that starts steaming when you click on it
             </div>
             <div className='buttonContainer'>
-                <button /> //Messages
+                <button>Mes</button> Teabox that opens when you click on it
             </div>
             <div className='buttonContainer'>
-                <button /> //Profile
+                <button>Pro</button> //Profile img or avatar
             </div>
             <div className='buttonContainer'>
-                <button /> //Settings...I'm thinking like a stove knob to kind of play on the tea thing
+                <button>Set</button> //Stove Knob
             </div>
         </div>
     </div>
